@@ -1,9 +1,10 @@
-# Archiver-Revolution
+# Archiver Revolution
 Archiver BWT + RLE
 
 ### About
-[Instruction](../master/Instruction.pdf)
-[Guide](../master/BWT/Archiver Revolution.chm)
+- [Instruction](../master/Instruction.pdf)
+- [Guide](../master/BWT/Archiver Revolution.chm)
+The program has a desktop and console version.
 
 ### Version
 1.0
