@@ -1,10 +1,9 @@
 # Archiver Revolution
-Archiver BWT + RLE
+Archiver BWT + RLE. The program has a desktop and console version.
 
 ### About
 - [Instruction](../master/Instruction.pdf)
 - [Guide](../master/BWT/Archiver Revolution.chm)
-The program has a desktop and console version.
 
 ### Version
 1.0
