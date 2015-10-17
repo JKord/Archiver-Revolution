@@ -9,7 +9,7 @@ Archiver BWT + RLE. The program has a desktop and console version.
 1.0
 
 ### Installation
-[Setup Archiver-Revolution.exe](https://github.com/JKord/Archiver-Revolution/releases/tag/v1.0)
+[Setup ArchiverRevolution.exe](https://github.com/JKord/ArchiverRevolution/releases/tag/v1.0)
 
 License
 ----
