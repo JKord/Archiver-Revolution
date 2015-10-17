@@ -1,0 +1,17 @@
+﻿<Window x:Class="BWT.ProgressWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Progress" Height="144" Width="436" WindowStyle="None" AllowsTransparency="True" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" MouseLeftButtonDown="Window_MouseLeftButtonDown" Topmost="True" Icon="/BWT;component/Images/Black_Cherub.png">
+    <Window.Background>
+        <SolidColorBrush />
+    </Window.Background>
+    <Border CornerRadius="30" Background="#D3CED6EC" BorderThickness="1" BorderBrush="#FF190000" Width="399" Height="66">
+      <Grid>
+            <ProgressBar Height="28" HorizontalAlignment="Left" Name="progressBar" VerticalAlignment="Top" Width="385" Margin="6,18,0,0" Foreground="#58268DFF" Background="#8DD6A784" IsIndeterminate="False" />
+        <Button Content="ok" Height="20" HorizontalAlignment="Left" Margin="182,22,0,0" Name="button1" VerticalAlignment="Top" Width="22" Click="button1_Click" Visibility="Collapsed" Style="{StaticResource LogonButton}" />
+            <Grid.Background>
+                <SolidColorBrush />
+            </Grid.Background>
+        </Grid>
+    </Border>
+</Window>
